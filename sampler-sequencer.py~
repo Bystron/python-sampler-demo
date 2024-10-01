@@ -6,9 +6,9 @@ import os
 
 
 #Welcome Message
-print("==============================")
-print("Welcome To CLI Python Sampler!")
-print("==============================")
+ print("==============================")
+ print("Welcome To CLI Python Sampler!")
+ print("==============================")
 
 # Define the folder path where your audio samples are located
 
